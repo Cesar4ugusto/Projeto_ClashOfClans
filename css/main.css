@@ -232,3 +232,9 @@ body{
     clear: both;
     height: 0;
 }
+
+@media screen and (max-width: 768px){
+    .slide-container{
+        display: block;
+    }
+}
